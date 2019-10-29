@@ -1,0 +1,14 @@
+2017-10-05 16:02:41.7514 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:00:56.8784 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:01:32.9532 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:04:47.1177 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:08:48.1511 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:13:01.8236 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:14:26.3154 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:16:28.4369 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:19:18.5041 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:30:04.8294 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 01:33:43.1228 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 11:36:38.0613 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-11-18 11:57:57.3932 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: Console
+2017-11-18 11:58:33.3120 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: Console
